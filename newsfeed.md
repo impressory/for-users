@@ -11,6 +11,30 @@ Most days, the first place students will visit is the newsfeed. This shows the m
 
 As you might expect, it looks fairly like a typical social media activity stream.  
 
+<div id="carousel-example-generic" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <div class="screenshot-big">
+        <img src="images/screenshots/newsfeed1.png" alt="Newsfeed" class="screenshot-big">
+      </div>
+      <div class="carousel-caption">Posts on the newsfeed of Design Computing Stuido 2</div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="icon-next"></span>
+  </a>
+</div>
 
 
 
@@ -25,7 +49,7 @@ Comments and voting are, of course, shown directly under each item on the newsfe
 
 Content in Impressory is tagged.  For instance there may be a Video Lecture about Version Control. And students might want to hop from that to the Tutorial about Version Control, and to the solution.  At the foot of each content entry, the tags describe what the content is about. Clicking these will bring up a list of all the other content in the course for that topic.
 
-For more information, see [tags](tags.html)
+For more information, see [tags](content.html#tags)
 
 
 ### Filtering the feed <span class="badge">Coming soon</span>

@@ -3,10 +3,13 @@ layout: default
 title: Impressory user documentation
 ---
 
-## Getting started
+## Hosting your course
 
 <p class="lead">
-Impressory is open source software.  That means you can freely run your own Impressory server to host as many courses as you like, or you can run your course on one that someone else has already set up &mdash; running your course in the cloud.  We have a server up and running for Design Computing Studio 2 at The University of Queensland at <a href="http://impressory.com">impressory.com</a>.  
+Impressory is open source software.  That means you can freely run your own Impressory server to host as many courses as you like, or you can run your course on one that someone else has already set up &mdash; running your course in the cloud.
+</p>
+<p class="lead">
+We have a server up and running for Design Computing Studio 2 at The University of Queensland at <a href="http://impressory.com">impressory.com</a>.  
 
 If you'd like to run a course on our server (which is as simple as logging in and clicking "create course"), please get in touch.
 </p>
